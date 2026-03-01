@@ -30,7 +30,7 @@ export default function Navbar({ selected, setSelected }: NavbarProps) {
     >
       <div className="relative mx-auto flex h-[80px] max-w-7xl items-center px-4 sm:px-6 lg:px-8">
         <a href="#" className="flex flex-shrink-0 items-center">
-          <img src="/logo.png" alt="Carwash Băneasa" className="h-14 w-auto" />
+          <img src="/carwash-baneasa/logo.png" alt="Carwash Băneasa" className="h-14 w-auto" />
         </a>
 
         <nav className="absolute left-1/2 hidden -translate-x-1/2 items-center gap-8 lg:flex">

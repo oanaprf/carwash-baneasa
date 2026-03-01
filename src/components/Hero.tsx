@@ -12,7 +12,7 @@ export default function Hero() {
         backgroundImage: `
           linear-gradient(to top, #212121 0%, #212121 8%, rgba(33,33,33,0.92) 28%, rgba(33,33,33,0.55) 55%, rgba(33,33,33,0.15) 100%),
           linear-gradient(to right, rgba(33,33,33,0.75) 0%, transparent 65%),
-          url('/hero-car.png')
+          url('/carwash-baneasa/hero-car.png')
         `,
         backgroundSize: "cover",
         backgroundPosition: "center 0%",
