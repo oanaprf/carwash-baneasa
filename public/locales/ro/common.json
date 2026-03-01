@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "services": "Servicii",
+    "prices": "Prețuri",
+    "locations": "Locații",
+    "contact": "Contact"
+  },
+  "locationHours": {
+    "baneasa": "Luni–Duminică: 08:00–20:00",
+    "pipera": "Luni–Duminică: 08:00–20:00",
+    "lemon": "Luni–Duminică: 09:00–19:00"
+  },
+  "mapsLink": "Deschide în Maps →",
+  "hero": {
+    "line1": "MAȘINA TA",
+    "line2_highlight": "MERITĂ",
+    "line2_rest": " CEL",
+    "line3": "MAI BUN",
+    "subtitle": "Echipamente de ultimă generație și produse premium. Rezultate remarcabile, garantate la fiecare vizită.",
+    "cta_primary": "Descoperă Serviciile",
+    "cta_secondary": "Vezi Prețurile",
+    "stat_years_n": "10+",
+    "stat_years_label": "Ani de Experiență",
+    "stat_clients_n": "50.000+",
+    "stat_clients_label": "Clienți Mulțumiți",
+    "stat_locations_n": "3",
+    "stat_locations_label": "Locații Active",
+    "stat_rating_n": "5",
+    "stat_rating_label": "Rating Mediu"
+  },
+  "services": {
+    "eyebrow": "SERVICIILE NOASTRE",
+    "heading1": "TOT CE ARE NEVOIE",
+    "heading2": "MAȘINA TA",
+    "details": "DETALII",
+    "items": [
+      {
+        "title": "Spălare Exterioară",
+        "desc": "Curățare completă a caroseriei cu spumă activă, jet de înaltă presiune și uscare profesională.",
+        "badge": "Popular"
+      },
+      {
+        "title": "Curățenie Interioară",
+        "desc": "Aspirare completă, ștergere bord și suprafețe, curățare geamuri și tratament plastic.",
+        "badge": null
+      },
+      {
+        "title": "Polish & Ceară",
+        "desc": "Protecție vopsea, intensificare luciu și protecție UV pentru o mașină strălucitoare.",
+        "badge": null
+      },
+      {
+        "title": "Detailing Complet",
+        "desc": "Detailing profesional complet interior și exterior. Rezultate impecabile garantate.",
+        "badge": "Premium"
+      },
+      {
+        "title": "Curățare Tapițerie",
+        "desc": "Curățare profundă scaune, covoare și tapițerie. Eliminare pete și mirosuri neplăcute.",
+        "badge": null
+      },
+      {
+        "title": "Tratament Ceramic",
+        "desc": "Protecție nano-ceramică de lungă durată. Strat hidrofob pentru vopsea imaculată.",
+        "badge": "Nou"
+      }
+    ]
+  },
+  "prices": {
+    "eyebrow": "PREȚURI",
+    "heading1": "PACHETE PENTRU",
+    "heading2": "ORICE BUGET",
+    "location_note_pre": "Prețuri pentru",
+    "location_note_post": ". Pot varia ușor în funcție de locație.",
+    "currency": "RON",
+    "basic": {
+      "name": "BASIC",
+      "features_included": [
+        "Spălare exterioară cu spumă",
+        "Clătire cu jet de presiune",
+        "Uscare profesională",
+        "Curățare roți"
+      ],
+      "features_excluded": [
+        "Aspirare interior",
+        "Polish & ceară",
+        "Detailing complet"
+      ],
+      "cta": "Alege Basic"
+    },
+    "standard": {
+      "name": "STANDARD",
+      "badge": "CEL MAI POPULAR",
+      "features_included": [
+        "Spălare exterioară completă",
+        "Clătire cu jet de presiune",
+        "Uscare profesională",
+        "Curățare roți și jante",
+        "Aspirare interior complet",
+        "Curățare geamuri interior",
+        "Ștergere bord și plastic"
+      ],
+      "features_excluded": [
+        "Polish & ceară",
+        "Detailing complet"
+      ],
+      "cta": "Alege Standard →"
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "features_included": [
+        "Spălare exterioară completă",
+        "Clătire cu jet de presiune",
+        "Uscare profesională",
+        "Curățare roți și jante",
+        "Aspirare interior complet",
+        "Curățare geamuri",
+        "Ștergere bord + plastic",
+        "Polish & ceară profesional",
+        "Parfumare interior"
+      ],
+      "cta": "Alege Premium →"
+    }
+  },
+  "why": {
+    "eyebrow": "DE CE NOI?",
+    "heading1": "EXPERȚI ÎN",
+    "heading2": "CURĂȚENIE",
+    "heading3": "AUTO",
+    "desc": "Cu peste 10 ani de experiență în industrie, am servit zeci de mii de clienți mulțumiți din toată capitala. Folosim exclusiv produse certificate și echipamente de ultimă generație.",
+    "stat_years_unit": "ani",
+    "stat_years_label": "de experiență în industrie",
+    "stat_clients_label": "clienți mulțumiți anual",
+    "stat_time_unit": "min",
+    "stat_time_label": "timp mediu de servire",
+    "stat_locations_label": "locații în București",
+    "features": [
+      {
+        "icon": "⚡",
+        "title": "Echipamente Profesionale",
+        "desc": "Utilaje de ultimă generație pentru rezultate remarcabile la fiecare spălare."
+      },
+      {
+        "icon": "🌟",
+        "title": "Produse Premium",
+        "desc": "Utilizăm exclusiv produse certificate, sigure pentru vopsea și mediu."
+      },
+      {
+        "icon": "👥",
+        "title": "Personal Calificat",
+        "desc": "Echipă de experți cu training specializat în auto-detailing profesional."
+      },
+      {
+        "icon": "⏱️",
+        "title": "Rapiditate",
+        "desc": "Servire rapidă și eficientă, fără compromisuri în calitatea rezultatelor."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "RECENZII",
+    "heading1": "CE SPUN",
+    "heading2": "CLIENȚII NOȘTRI",
+    "items": [
+      {
+        "name": "Alexandru M.",
+        "rating": 5,
+        "text": "Cel mai bun carwash din București! Mașina mea arată ca nouă după fiecare vizită. Personal amabil și extrem de profesionist.",
+        "location": "Carwash Băneasa",
+        "date": "Februarie 2025"
+      },
+      {
+        "name": "Ioana P.",
+        "rating": 5,
+        "text": "Servicii impecabile! Am ales pachetul Premium și am rămas uimită de rezultate. Recomand cu toată încrederea oricui!",
+        "location": "Carwash Pipera",
+        "date": "Ianuarie 2025"
+      },
+      {
+        "name": "Mihai R.",
+        "rating": 5,
+        "text": "Prețuri corecte, calitate excelentă. Tratamentul ceramic a transformat complet aspectul mașinii mele. Revin mereu!",
+        "location": "Carwash Băneasa Lemon",
+        "date": "Martie 2025"
+      }
+    ]
+  },
+  "cta": {
+    "heading1": "REZERVĂ ACUM &",
+    "heading2": "ECONOMISEȘTE 10%",
+    "desc": "Reducere specială la prima vizită pentru clienți noi. Valabil la toate cele 3 locații.",
+    "button": "Sună Acum →"
+  },
+  "footer": {
+    "tagline": "Spălătorie auto profesională în București. Calitate garantată la fiecare vizită.",
+    "services_heading": "SERVICII",
+    "services_list": [
+      "Spălare Exterioară",
+      "Curățenie Interioară",
+      "Polish & Ceară",
+      "Detailing Complet",
+      "Curățare Tapițerie",
+      "Tratament Ceramic"
+    ],
+    "locations_heading": "LOCAȚII",
+    "contact_heading": "CONTACT",
+    "email_label": "Email",
+    "copyright": "© 2025 Carwash Băneasa. Toate drepturile rezervate.",
+    "subtitle": "Spălătorie Auto Profesională în București",
+    "language": "Limbă"
+  }
+}

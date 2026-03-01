@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "services": "Services",
+    "prices": "Prices",
+    "locations": "Locations",
+    "contact": "Contact"
+  },
+  "locationHours": {
+    "baneasa": "Mon–Sun: 08:00–20:00",
+    "pipera": "Mon–Sun: 08:00–20:00",
+    "lemon": "Mon–Sun: 09:00–19:00"
+  },
+  "mapsLink": "Open in Maps →",
+  "hero": {
+    "line1": "YOUR CAR",
+    "line2_highlight": "DESERVES",
+    "line2_rest": " THE",
+    "line3": "VERY BEST",
+    "subtitle": "State-of-the-art equipment and premium products. Remarkable results, guaranteed at every visit.",
+    "cta_primary": "Explore Services",
+    "cta_secondary": "View Prices",
+    "stat_years_n": "10+",
+    "stat_years_label": "Years of Experience",
+    "stat_clients_n": "50,000+",
+    "stat_clients_label": "Happy Clients",
+    "stat_locations_n": "3",
+    "stat_locations_label": "Active Locations",
+    "stat_rating_n": "5",
+    "stat_rating_label": "Average Rating"
+  },
+  "services": {
+    "eyebrow": "OUR SERVICES",
+    "heading1": "EVERYTHING YOUR",
+    "heading2": "CAR NEEDS",
+    "details": "DETAILS",
+    "items": [
+      {
+        "title": "Exterior Wash",
+        "desc": "Complete body cleaning with active foam, high-pressure jet and professional drying.",
+        "badge": "Popular"
+      },
+      {
+        "title": "Interior Cleaning",
+        "desc": "Full vacuuming, dashboard and surface wipe-down, window cleaning and plastic treatment.",
+        "badge": null
+      },
+      {
+        "title": "Polish & Wax",
+        "desc": "Paint protection, gloss enhancement and UV protection for a shining car.",
+        "badge": null
+      },
+      {
+        "title": "Full Detailing",
+        "desc": "Complete professional interior and exterior detailing. Impeccable results guaranteed.",
+        "badge": "Premium"
+      },
+      {
+        "title": "Upholstery Cleaning",
+        "desc": "Deep cleaning of seats, carpets and upholstery. Stain and odour elimination.",
+        "badge": null
+      },
+      {
+        "title": "Ceramic Treatment",
+        "desc": "Long-lasting nano-ceramic protection. Hydrophobic coating for an immaculate finish.",
+        "badge": "New"
+      }
+    ]
+  },
+  "prices": {
+    "eyebrow": "PRICING",
+    "heading1": "PACKAGES FOR",
+    "heading2": "EVERY BUDGET",
+    "location_note_pre": "Prices for",
+    "location_note_post": ". May vary slightly by location.",
+    "currency": "RON",
+    "basic": {
+      "name": "BASIC",
+      "features_included": [
+        "Exterior wash with foam",
+        "High-pressure rinse",
+        "Professional drying",
+        "Wheel cleaning"
+      ],
+      "features_excluded": [
+        "Interior vacuuming",
+        "Polish & wax",
+        "Full detailing"
+      ],
+      "cta": "Choose Basic"
+    },
+    "standard": {
+      "name": "STANDARD",
+      "badge": "MOST POPULAR",
+      "features_included": [
+        "Full exterior wash",
+        "High-pressure rinse",
+        "Professional drying",
+        "Wheel & rim cleaning",
+        "Full interior vacuuming",
+        "Interior window cleaning",
+        "Dashboard & plastic wipe"
+      ],
+      "features_excluded": [
+        "Polish & wax",
+        "Full detailing"
+      ],
+      "cta": "Choose Standard →"
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "features_included": [
+        "Full exterior wash",
+        "High-pressure rinse",
+        "Professional drying",
+        "Wheel & rim cleaning",
+        "Full interior vacuuming",
+        "Window cleaning",
+        "Dashboard + plastic wipe",
+        "Professional polish & wax",
+        "Interior fragrance"
+      ],
+      "cta": "Choose Premium →"
+    }
+  },
+  "why": {
+    "eyebrow": "WHY US?",
+    "heading1": "EXPERTS IN",
+    "heading2": "AUTOMOTIVE",
+    "heading3": "CARE",
+    "desc": "With over 10 years of industry experience, we have served tens of thousands of satisfied customers throughout the capital. We use exclusively certified products and state-of-the-art equipment.",
+    "stat_years_unit": "yrs",
+    "stat_years_label": "of industry experience",
+    "stat_clients_label": "happy clients per year",
+    "stat_time_unit": "min",
+    "stat_time_label": "average service time",
+    "stat_locations_label": "locations in Bucharest",
+    "features": [
+      {
+        "icon": "⚡",
+        "title": "Professional Equipment",
+        "desc": "State-of-the-art machinery for remarkable results at every wash."
+      },
+      {
+        "icon": "🌟",
+        "title": "Premium Products",
+        "desc": "We use exclusively certified products, safe for your paint and the environment."
+      },
+      {
+        "icon": "👥",
+        "title": "Qualified Staff",
+        "desc": "Expert team with specialised training in professional auto-detailing."
+      },
+      {
+        "icon": "⏱️",
+        "title": "Speed",
+        "desc": "Fast and efficient service, with no compromise on quality."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "REVIEWS",
+    "heading1": "WHAT OUR",
+    "heading2": "CLIENTS SAY",
+    "items": [
+      {
+        "name": "Alexandru M.",
+        "rating": 5,
+        "text": "Best car wash in Bucharest! My car looks like new after every visit. Friendly and extremely professional staff.",
+        "location": "Carwash Băneasa",
+        "date": "February 2025"
+      },
+      {
+        "name": "Ioana P.",
+        "rating": 5,
+        "text": "Impeccable service! I chose the Premium package and was amazed by the results. I recommend it wholeheartedly!",
+        "location": "Carwash Pipera",
+        "date": "January 2025"
+      },
+      {
+        "name": "Mihai R.",
+        "rating": 5,
+        "text": "Fair prices, excellent quality. The ceramic treatment completely transformed the look of my car. I keep coming back!",
+        "location": "Carwash Băneasa Lemon",
+        "date": "March 2025"
+      }
+    ]
+  },
+  "cta": {
+    "heading1": "BOOK NOW &",
+    "heading2": "SAVE 10%",
+    "desc": "Special discount for first-time customers. Valid at all 3 locations.",
+    "button": "Call Now →"
+  },
+  "footer": {
+    "tagline": "Professional car wash in Bucharest. Quality guaranteed at every visit.",
+    "services_heading": "SERVICES",
+    "services_list": [
+      "Exterior Wash",
+      "Interior Cleaning",
+      "Polish & Wax",
+      "Full Detailing",
+      "Upholstery Cleaning",
+      "Ceramic Treatment"
+    ],
+    "locations_heading": "LOCATIONS",
+    "contact_heading": "CONTACT",
+    "email_label": "Email",
+    "copyright": "© 2025 Carwash Băneasa. All rights reserved.",
+    "subtitle": "Professional Car Wash in Bucharest",
+    "language": "Language"
+  }
+}
